@@ -1,0 +1,6 @@
+{
+  "name": "Joyce's Mini Mart",
+  "description": "A cute kawaii supermarket educational game for young learners with spelling unlocks, shopping missions, shelf customizer, and offline audio synthesis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
